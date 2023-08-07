@@ -16,13 +16,8 @@ project
 └─ src
     │
     ├─ pages
-    │   └─ index.js
     │
     ├─ components
-    │   │
-    │   ├─ Elevators
-    │   ├─ Door
-    │   └─ Button
     │
     ├─ constants
     │
